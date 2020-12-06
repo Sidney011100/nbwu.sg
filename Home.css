@@ -16,9 +16,9 @@
 .u-section-1 .u-text-2 {font-size: 1.25rem; margin-left: -1px; margin-right: -1px} }
 
 @media (max-width: 575px){ .u-section-1 {background-position: 50% 50%}
-.u-section-1 .u-sheet-1 {min-height: 510px}
-.u-section-1 .u-text-1 {font-size: 2.25rem; width: 271px; animation-duration: 1000ms; margin-top: 386px}
-.u-section-1 .u-text-2 {font-size: 1.125rem; margin: 8px 1px 35px} }.u-section-2 {margin-top: 0; margin-bottom: 0; background-image: none}
+.u-section-1 .u-sheet-1 {min-height: 553px}
+.u-section-1 .u-text-1 {font-size: 2.25rem; width: 271px; animation-duration: 1000ms; margin-top: 429px}
+.u-section-1 .u-text-2 {font-size: 1.125rem; margin: 8px 1px 26px} }.u-section-2 {margin-top: 0; margin-bottom: 0; background-image: none}
 .u-section-2 .u-sheet-1 {min-height: 695px}
 .u-section-2 .u-text-1 {font-family: Courgette; font-size: 4.5rem; width: 553px; margin: 27px auto 0}
 .u-section-2 .u-slider-1 {min-height: 493px; height: auto; margin: 0 auto 60px 0}
@@ -585,7 +585,7 @@
 
 @media (max-width: 991px){ .u-section-10 .u-sheet-1 {min-height: 878px}
 .u-section-10 .u-text-1 {width: auto; margin-top: 44px}
-.u-section-10 .u-list-1 {min-height: 832px; grid-template-columns: calc(((100% - 720px) / 2) + 355px) calc(((100% - 720px) / 2) + 355px); margin-top: 10px; margin-right: initial; margin-left: initial} }
+.u-section-10 .u-list-1 {min-height: 772px; grid-template-columns: calc(((100% - 720px) / 2) + 355px) calc(((100% - 720px) / 2) + 355px); margin-top: 10px; margin-right: initial; margin-left: initial} }
 
 @media (max-width: 767px){ .u-section-10 .u-list-1 {grid-template-columns: 100%; margin-right: initial; margin-left: initial}
 .u-section-10 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
@@ -605,7 +605,7 @@
 .u-section-11 .u-text-4 {margin: 20px 0 0} 
 
 @media (max-width: 1199px){ .u-section-11 .u-sheet-1 {min-height: 397px}
-.u-section-11 .u-list-1 {min-height: 305px; grid-template-columns: calc(((100% - 940px) / 2)  + 435px) calc(((100% - 940px) / 2)  + 435px); margin-right: auto}
+.u-section-11 .u-list-1 {min-height: 381px; grid-template-columns: calc(((100% - 940px) / 2)  + 435px) calc(((100% - 940px) / 2)  + 435px); margin-right: auto}
 .u-section-11 .u-image-1 {width: 232px; height: 232px}
 .u-section-11 .u-image-2 {width: 232px; height: 232px} }
 
