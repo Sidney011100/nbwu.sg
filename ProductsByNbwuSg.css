@@ -1217,6 +1217,14 @@
   bottom: 10px;
 }
 
+.u-section-4 .embed-responsive-1 {
+  position: absolute;
+  width: 178%;
+  height: 100%;
+  left: -39%;
+  top: 0%;
+}
+
 .u-section-4 .u-over-slide-1 {
   min-height: 100px;
   padding: 10px;
